@@ -4,8 +4,11 @@ Course Learning-Map
 ![6c100e4b1b78e891c27cba6b02919b27.png](6c100e4b1b78e891c27cba6b02919b27.png)
 
 [Assignments-by-FSM](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/Assignments)
+
 [Lecture Slides](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/Slides-Lee)
+
 [Complementary Notes](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/classNotes)
+
 *Complementary Notes是关于Slides或者homework里提到的algorithm（心情好的时候）做的额外research~*
 
 ## P1-Introduction
