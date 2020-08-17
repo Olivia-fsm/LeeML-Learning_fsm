@@ -3,6 +3,13 @@
 Course Learning-Map
 ![6c100e4b1b78e891c27cba6b02919b27.png](6c100e4b1b78e891c27cba6b02919b27.png)
 
+[Assignments-by-FSM](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/Assignments)
+
+[Lecture Slides](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/Slides-Lee)
+
+[Complementary Notes](https://github.com/Olivia-fsm/LeeML-Learning_fsm/tree/master/classNotes)
+
+*Complementary Notes是关于Slides或者homework里提到的algorithm（心情好的时候）做的额外research~*
 
 ## P1-Introduction
 ### Environment
@@ -21,7 +28,7 @@ Course Learning-Map
 - Optimization Algorithm
     - 1: SGD→ Simplist! 
     - 2: Adagrad→ 二阶动量
-        - Principle: Update the learning-rate
+        **Principle: Update the learning-rate**
         $V_t = \sum_{\tau =1}^t g_{\tau}^2$
         $\eta_t = \alpha \cdot m_t/\sqrt{V_t + \epsilon}$
         $w_{t+1} = w_t - \eta_t$
